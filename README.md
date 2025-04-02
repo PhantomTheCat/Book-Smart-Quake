@@ -1,5 +1,7 @@
 # Book-Smart-Quake
-Repository for my Quake map called Book Smart, a medieval-style destroyed library map
+Repository for my Quake map called Book Smart, a medieval-style library map with some demonic imagery. The current release can be found in the releases of the GitHub Repository.
+
+Final Walkthrough Video Link: https://youtu.be/gn9HQ-WliFk
 
 ## In-Engine Screenshots:
 
